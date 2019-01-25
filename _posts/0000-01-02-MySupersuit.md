@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Plateau's are the **highest** form of *flattery*
 Use the left arrow to go back!
